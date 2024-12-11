@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ramda": "^0.29.1",
-    "react-native-svg": "^14.1.0"
+    "react-native-svg": "^15.2.0"
   },
   "peerDependencies": {
     "react": "*",
